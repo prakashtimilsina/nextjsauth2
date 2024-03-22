@@ -1,1 +1,0 @@
-# nextjsauth2
