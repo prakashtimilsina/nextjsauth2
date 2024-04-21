@@ -12,7 +12,7 @@ export async function connect(){
             process.exit()
         })
     } catch (error) {
-        console.log('Something went wrong in connecting to MongoDB' + error);
+        console.log('Something went wrong while connecting to MongoDB' + error);
         
         
     }
